@@ -1,1 +1,1 @@
-![Output](Output.png)
+![Output](Dashboard.jpg)
